@@ -1,1 +1,1 @@
-# odin-recipes
+A simple html only recipes site to solidify what I have learned so far
