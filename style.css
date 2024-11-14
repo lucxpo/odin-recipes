@@ -1,9 +1,19 @@
+body {
+    background-color: #C9E6F0;
+}
+
 h1,
 h2,
 p,
 div {
     text-align: center;
     font-family: Garamond, sans-serif;
+}
+
+h1,
+h2 {
+    color: #FBF8EF;
+    background-color: #78B3CE;
 }
 
 img {
