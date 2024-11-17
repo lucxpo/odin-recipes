@@ -29,6 +29,11 @@ img {
     padding: 0;
 }
 
-.list {
+.description-text,
+.list-container {
+    padding: 0 20px;
+}
+
+.list-container{
     text-align: left;
 }
