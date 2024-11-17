@@ -2,18 +2,24 @@ body {
     background-color: #C9E6F0;
 }
 
-h1,
-h2,
-p,
-div {
+.card {
+    width: 50%;
     text-align: center;
     font-family: Garamond, sans-serif;
+    margin: 0 auto;
 }
 
 h1,
 h2 {
     color: #FBF8EF;
     background-color: #78B3CE;
+}
+
+.title {
+    width: 50%;
+    height: 50px;
+    margin: 0 auto;
+    padding: 50px;
 }
 
 img {
@@ -24,8 +30,8 @@ img {
     height: auto;
 }
 
-ul,
-ol {
+.list {
     display: inline-block;
-    text-align: left;
+    text-align: center;
+    padding: 0;
 }
