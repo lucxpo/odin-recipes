@@ -3,10 +3,27 @@
 }
 
 body {
-    background-color: #A6B1E1;
+    background-color: #F4EEFF;
 }
 
-ul {
+h1,
+h2 {
+    background-color: #DCD6F7;
+}
+
+.recipe-links {
     list-style: none;
     padding: 0;
+}
+
+.ingredients-steps{
+    display: inline-block;
+}
+
+.ingredients-steps li{
+    text-align: left;
+}
+
+li p {
+    text-align: left;
 }
